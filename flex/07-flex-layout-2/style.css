@@ -9,8 +9,12 @@ body {
 
 .header {
   height: 72px;
+  display: flex;
   background: darkmagenta;
   color: white;
+  font-size: xx-large;
+  font-weight: bold;
+  align-items: center;
 }
 
 .footer {
